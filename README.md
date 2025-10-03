@@ -2,6 +2,8 @@
 
 A beautiful radial wallpaper picker for Linux with GTK4, designed for Hyprland and other Wayland compositors.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/353ffeb2-a7a5-409b-b483-18af9c79bd73" />
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
