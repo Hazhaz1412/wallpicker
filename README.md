@@ -41,7 +41,7 @@ sudo apt install python3 libgtk-4-1 python3-gi gir1.2-gtk-4.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/wallpicker.git
+git clone https://github.com/Hazhaz1412/wallpicker.git
 cd wallpicker
 ```
 
